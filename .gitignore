@@ -160,6 +160,7 @@ xcuserdata
 doc/html
 doc/Doxyfile.warnings
 *.xcodeproj/project.xcworkspace/xcshareddata/*.xccheckout
+
 # CocoaPods
 #
 # We recommend against adding the Pods directory to your .gitignore. However
